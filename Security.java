@@ -1,4 +1,3 @@
-package com.ccnu.nercel.HouseholdAppliances;
 
 public class Security implements HouseholdAppliances{
 
