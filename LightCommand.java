@@ -1,6 +1,3 @@
-package com.ccnu.nercel.Command;
-
-import com.ccnu.nercel.HouseholdAppliances.Light;
 
 public class LightCommand implements Command{
 	
