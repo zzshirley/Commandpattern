@@ -1,9 +1,5 @@
-package com.ccnu.nercel;
-
 import java.util.ArrayList;
 import java.util.List;
-
-import com.ccnu.nercel.Command.Command;
 
 public class Invoker {
 	private List<Command> commandList=new ArrayList<Command>();
