@@ -1,6 +1,3 @@
-package com.ccnu.nercel.Command;
-
-import com.ccnu.nercel.HouseholdAppliances.Security;
 
 public class SecurityCommand implements Command {
 	private Security security;
