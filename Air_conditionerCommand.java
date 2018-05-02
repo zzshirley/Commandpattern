@@ -1,6 +1,3 @@
-package com.ccnu.nercel.Command;
-
-import com.ccnu.nercel.HouseholdAppliances.Air_conditioner;
 
 public class Air_conditionerCommand implements Command{
 	
