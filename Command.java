@@ -1,4 +1,3 @@
-package com.ccnu.nercel.Command;
 
 public interface Command {
 	
