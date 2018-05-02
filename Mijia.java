@@ -1,17 +1,4 @@
-package com.ccnu.nercel;
-
 import java.util.Scanner;
-
-import com.ccnu.nercel.Command.Air_conditionerCommand;
-import com.ccnu.nercel.Command.CameraCommand;
-import com.ccnu.nercel.Command.LightCommand;
-import com.ccnu.nercel.Command.SecurityCommand;
-import com.ccnu.nercel.Command.TVCommand;
-import com.ccnu.nercel.HouseholdAppliances.Air_conditioner;
-import com.ccnu.nercel.HouseholdAppliances.Camera;
-import com.ccnu.nercel.HouseholdAppliances.Light;
-import com.ccnu.nercel.HouseholdAppliances.Security;
-import com.ccnu.nercel.HouseholdAppliances.TV;
 
 public class Mijia {
 
