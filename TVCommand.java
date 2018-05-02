@@ -1,6 +1,3 @@
-package com.ccnu.nercel.Command;
-
-import com.ccnu.nercel.HouseholdAppliances.TV;
 
 public class TVCommand implements Command {
 	
