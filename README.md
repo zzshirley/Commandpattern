@@ -3,4 +3,5 @@
 ## 实现
     模拟小米的米家app，简单实现离家模式和回家模式。
     设计类图如下：
+    <img src="https://github.com/zzshirley/Commandpattern/blob/master/类图.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
     离家模式：关闭所有家电，开启安防和摄像头。
